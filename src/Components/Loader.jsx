@@ -5,6 +5,6 @@ import { Pulsar } from "@uiball/loaders";
 export const Loader = () => {
   return(
   <div className="container-loader">
-    <Pulsar size={40} speed={1.75} color="black" />;
+    <Pulsar size={60} speed={1.75} color="red" />
   </div>);
 };
